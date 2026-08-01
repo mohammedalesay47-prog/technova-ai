@@ -9,7 +9,7 @@ The project focuses on futuristic visual design, interactive frontend features, 
 Add your live demo link here:
 
 
-https://your-demo-link.com
+ https://mohammedalesay47-prog.github.io/technova-ai/
 
 
 ## 📸 Preview
@@ -52,7 +52,7 @@ https://your-demo-link.com
 
 ## 📂 Project Structure
 
-```text
+
 technova-ai/
 │
 ├── index.html
