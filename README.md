@@ -6,7 +6,7 @@ The project focuses on futuristic visual design, interactive frontend features, 
 
 ## 🌐 Live Demo
 
-Add your live demo link here:
+My live demo link here:
 
 
  https://mohammedalesay47-prog.github.io/technova-ai/
